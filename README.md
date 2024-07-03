@@ -34,3 +34,5 @@ Este es un `código en línea`.
 
 ###Gist
 This is a good example of [my code](https://gist.github.com/mflores831/78b9aff9fdad72dcc125e0f7337d8b4b)
+
+This is the [notebook](https://github.com/mflores831/technical-discussion/blob/main/technical_docs.ipynb)
